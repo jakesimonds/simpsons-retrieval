@@ -1,4 +1,4 @@
-
+## to bootstrap:
 
 1. get ollama and chromadb dependencies sorted
 
@@ -10,7 +10,7 @@
 
 If that works without error, then run...
 
-4. run 'python inference.py '<your custom description>'
+4. run 'python inference.py '..your custom description...'
 
 Examples of fun ones:
 'evil genius'
