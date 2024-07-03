@@ -1,0 +1,71 @@
+	1.	Homer Simpson: Patriarch, lazy, loves donuts, nuclear safety inspector, dimwitted, loves family, Marge, Bart, Lisa, Maggie, impulsive, bumbling, iconic catchphrases.
+	2.	Marge Simpson: Matriarch, blue hair, homemaker, patient, nurturing, moral compass, sensible, Marge, Homer, Bart, Lisa, Maggie, supportive, caring, strong-willed.
+	3.	Bart Simpson: Mischievous, troublemaker, skateboarder, rebellious, prankster, poor grades, ten-year-old, Bart, Homer, Marge, Lisa, Maggie, iconic catchphrases.
+	4.	Lisa Simpson: Intelligent, saxophone prodigy, academic, social justice, eight-year-old, Lisa, Homer, Marge, Bart, Maggie, compassionate, environmentalist, feminist.
+	5.	Maggie Simpson: Infant, silent, pacifier, intelligent, brave, youngest, Maggie, Homer, Marge, Bart, Lisa, subtle humor, poignant moments.
+	6.	Mr. Burns: Wealthy, tyrannical, nuclear power plant owner, greedy, frail, cunning, ruthless, villainous, Mr. Burns, Homer, Smithers, power-hungry, iconic catchphrase.
+	7.	Ned Flanders: Cheerful, devout Christian, neighbor, optimistic, green sweater, moral, kind, generous, Ned, Homer, Leftorium, faithful, patient.
+	8.	Apu Nahasapeemapetilon: Convenience store owner, hardworking, diligent, immigrant, resourceful, Apu, Kwik-E-Mart, family-oriented, intelligent, cultural richness.
+	9.	Krusty the Clown: Entertainer, cynical, children’s show host, chaotic, gambler, Krusty, Homer, Bart, comedic, performer, complex, troubled.
+	10.	Milhouse Van Houten: Nerdy, loyal, naive, best friend, crush on Lisa, Milhouse, Bart, Homer, Marge, vulnerable, awkward, friendship.
+	11.	Principal Skinner: Authority, strict, school principal, Vietnam veteran, insecure, Seymour, Bart, Homer, disciplined, rigid, dedicated.
+	12.	Chief Wiggum: Police chief, bumbling, lazy, loves donuts, Clancy, Ralph, law enforcement, humorous, incompetent, occasional bravery.
+	13.	Moe Szyslak: Bar owner, gruff, cynical, unrequited love, Moe’s Tavern, Homer, Marge, bartender, tough, vulnerable, loyal.
+	14.	Ralph Wiggum: Eccentric, bewildered, innocent, Chief Wiggum’s son, Ralph, school, humorous, nonsensical, childlike, endearing.
+	15.	Groundskeeper Willie: Scottish, custodian, fiery, muscular, thick accent, Willie, school, gruff, hardworking, humorous, prideful.
+	16.	Mr. Smithers: Devoted, assistant, unrequited love, competent, Smithers, Mr. Burns, loyal, intelligent, organized, conflicted.
+	17.	Patty Bouvier: Twin sister, deep voice, DMV employee, cynical, single, lesbian, Patty, Marge, Selma, family dynamics, sarcastic.
+	18.	Selma Bouvier: Twin sister, deep voice, DMV employee, chain-smoker, desperate for love, Selma, Marge, Patty, single, motherly.
+	19.	Abe Simpson: Elderly, storyteller, forgetful, Homer’s father, Abe, Grampa, retirement home, World War II veteran, grumpy, wise.
+	20.	Nelson Muntz: Bully, tough, signature laugh, misunderstood, troubled home life, Nelson, Bart, Milhouse, school, complex, vulnerable.
+    21.	Sideshow Bob: Former entertainer, criminal mastermind, cultured, hates Bart, wild hair, Sideshow Bob, Krusty, intelligent, revenge-driven, complex.
+	22.	Comic Book Guy: Sarcastic, overweight, comic book store owner, pop culture expert, critical, Comic Book Guy, nerdy, knowledgeable, cynical.
+	23.	Kent Brockman: News anchor, polished, sensationalist, professional, Channel 6 News, Kent, media figure, authoritative, biased, humorous.
+	24.	Mayor Quimby: Corrupt, womanizer, Boston accent, political figure, Mayor Quimby, scandalous, self-serving, charismatic, superficial.
+	25.	Martin Prince: Intelligent, teacher’s pet, academic achiever, nerdy, Martin, Bart, Lisa, school, enthusiastic, optimistic, bullied.
+	26.	Mrs. Krabappel: Weary, chain-smoker, teacher, sarcastic, Edna, Bart, school, cynical, caring, frustrated, disillusioned.
+	27.	Otto Mann: Bus driver, laid-back, heavy-metal lover, irresponsible, Otto, school, rebellious, chaotic, music enthusiast, humorous.
+	28.	Professor Frink: Eccentric scientist, inventor, technobabble, Professor Frink, Springfield, intelligent, quirky, innovative, humorous.
+	29.	Dr. Hibbert: Physician, good-natured, hearty laughter, Dr. Hibbert, Springfield, competent, caring, compassionate, reliable, humorous.
+	30.	Snake Jailbird: Criminal, long hair, tattooed, petty crimes, Snake, Chief Wiggum, rebellious, laid-back, decent moments, complex.
+	31.	Lenny Leonard: Co-worker, easygoing, loyal, Lenny, Homer, Carl, nuclear power plant, friendship, humorous, frequent mishaps.
+	32.	Carl Carlson: Co-worker, calm, rational, Carl, Homer, Lenny, nuclear power plant, intelligent, level-headed, friendship.
+	33.	Troy McClure: Washed-up actor, cheesy smile, infomercials, Troy, Hollywood satire, confident, deluded, humorous, faded star.
+	34.	Duffman: Beer mascot, muscular, energetic, Duffman, promotional antics, catchphrase, commercialism, enthusiastic, humorous.
+	35.	Reverend Lovejoy: Pastor, dry sermons, disinterested, Reverend Lovejoy, church, faith, jaded, moral guidance, cynical, insightful.
+	36.	Dr. Nick Riviera: Quack doctor, charming, incompetent, Dr. Nick, medical humor, cheap solutions, malpractice, enthusiastic, humorous.
+	37.	Hans Moleman: Elderly, unfortunate, frail, Hans Moleman, accidents, optimistic, humorous, resilient, Springfield, pathos.
+	38.	Sherri and Terri: Identical twins, sardonic, purple dresses, Sherri, Terri, Bart, school, aloof, mean-spirited, in unison.
+	39.	Jimbo Jones: Bully, purple knit cap, rebellious, Jimbo, school, tough exterior, vulnerable, Bart, mischief, complex.
+	40.	Kearney Zzyzwicz: Bully, bald, older appearance, Kearney, school, tough, adult responsibilities, rebellious, humorous.
+	41.	Dolph Starbeam: Bully, shaggy hair, laid-back, Dolph, school, rebellious, intelligent, mischief, Bart, complex.
+	42.	Jasper Beardly: Elderly, long white beard, confused, Jasper, Grampa, retirement home, humorous, wise, resilient.
+	43.	Mrs. Hoover: Teacher, disinterested, cynical, Mrs. Hoover, Lisa, school, burnt-out, caring moments, educational challenges.
+	44.	Agnes Skinner: Overbearing mother, sharp tongue, domineering, Agnes, Principal Skinner, controlling, abrasive, humorous.
+	45.	Fat Tony: Mafia boss, calm, ruthless, Fat Tony, Springfield, criminal activities, honorable moments, complex.
+	46.	Lindsey Naegle: Corporate climber, business roles, savvy, Lindsey, Springfield, ruthless, intelligent, ambitious, opportunistic.
+	47.	Luann Van Houten: Mother, strong-willed, single parent, Luann, Milhouse, supportive, divorce, complex, caring.
+	48.	Kirk Van Houten: Father, hapless, divorced, Kirk, Milhouse, insecure, loving, self-improvement, humorous, sympathetic.
+	49.	Cletus Spuckler: Hillbilly, large family, simple-minded, Cletus, rural lifestyle, humorous, loving father, content.
+	50.	Brandine Spuckler: Rural, large family, unpolished, Brandine, Cletus, mother, supportive, resilient, humorous.
+    51.	Disco Stu: Retro-obsessed, disco lover, flashy outfits, Disco Stu, 1970s, energetic, enthusiastic, nostalgic, humorous, music.
+	52.	Squeaky Voiced Teen: Awkward, high-pitched voice, teenage worker, Squeaky Voiced Teen, multiple jobs, inept, humorous, adolescence.
+	53.	Helen Lovejoy: Pious, gossiping, moralizing, Helen, Reverend Lovejoy, judgmental, community figure, critical, hypocritical, church.
+	54.	Itchy: Violent cartoon mouse, Itchy and Scratchy Show, Itchy, antagonist, slapstick, humorous, animated, Springfield.
+	55.	Scratchy: Unfortunate cartoon cat, Itchy and Scratchy Show, Scratchy, victim, slapstick, humorous, animated, Springfield.
+	56.	Lurleen Lumpkin: Country singer, romantic interest, Lurleen, Homer, musical talent, troubled past, emotional, charming.
+	58.	Cookie Kwan: Real estate agent, competitive, aggressive, Cookie Kwan, Springfield, territorial, assertive, business-minded.
+	59.	Rainier Wolfcastle: Action movie star, McBain, muscular, Rainier, Hollywood satire, tough, parody, humorous, famous.
+	60.	Artie Ziff: Wealthy, Marge’s ex-boyfriend, inventor, Artie, obsessive, nerdy, jealous, entrepreneur, Springfield.
+	61.	Bleeding Gums Murphy: Jazz musician, saxophonist, mentor, Bleeding Gums, Lisa, talented, soulful, inspirational, Springfield.
+	62.	Lionel Hutz: Incompetent lawyer, Lionel Hutz, sleazy, humorous, legal cases, Springfield, unethical, desperate, opportunistic.
+	63.	Gil Gunderson: Unlucky salesman, Gil, desperate, Springfield, various jobs, optimistic, down-on-luck, humorous, endearing.
+	64.	Manjula Nahasapeemapetilon: Apu’s wife, mother, Manjula, Kwik-E-Mart, supportive, intelligent, cultural, family-oriented.
+	65.	Uter Zorker: Exchange student, German, Uter, loves candy, overweight, school, foreign, innocent, humorous.
+	66.	Dewey Largo: Music teacher, strict, Dewey, Springfield Elementary, critical, serious, artistic, musical education.
+	67.	Kang and Kodos: Alien siblings, evil plans, Kang, Kodos, Halloween episodes, extraterrestrial, humorous, science fiction.
+	68.	Jebediah Springfield: Town founder, legendary, Jebediah, Springfield, historical, heroic, respected, mythical.
+	69.	Lindsey Naegle: Corporate climber, business roles, savvy, Lindsey, Springfield, ruthless, intelligent, ambitious, opportunistic.
+	70.	Rod Flanders: Devout, Ned’s son, Rod, Springfield, religious, innocent, obedient, optimistic, Flanders family.
+	71.	Todd Flanders: Devout, Ned’s son, Todd, Springfield, religious, innocent, obedient, optimistic, Flanders family.
+	72.	Jessica Lovejoy: Rebellious, Reverend’s daughter, Jessica, Bart, manipulative, mischievous, charming, complex.
