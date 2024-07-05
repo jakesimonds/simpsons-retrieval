@@ -3,10 +3,10 @@ import chromadb
 import sys
 
 MODEL = 'snowflake-arctic-embed:latest'
-N_RESULTS = 5
+N_RESULTS = 3
 #PROMPT = "bully who says 'Ha-ha!'"
 if len(sys.argv) < 2:
-  PROMPT = "bully who says 'Ha-ha!'"
+  PROMPT = ""
 else:
     PROMPT = sys.argv[1]
 print(PROMPT)
